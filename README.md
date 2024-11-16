@@ -4,7 +4,8 @@
 * To purchase it dm me on telegram -> @MmCopyMemory
 
 ## Description
-* This is NOT usable in modern anticheats because of very common detection vectors & flags ... memcpy, NMI Callbacks ETC.
+* This is NOT usable ANYMORE in modern anticheats because of very common detection vectors & flags ... memcpy, NMI Callbacks ETC.
+* Was undetected few months ago before it got gatekeeped between some people and then leaked
 * Made to be manually mapped using tools such as ex. [KDMapper]([https://twitter.com/dompizzie](https://github.com/TheCruZ/kdmapper))
 
 ### Dependencies
